@@ -1,4 +1,4 @@
-# Simple example plugin for Kodi mediacenter
+# Simple example plugin for Kodi mediacenter (Kodi 19)
 
 This is a simple yet fully functional example of a video plugin for [Kodi](http://kodi.tv) mediacenter.
 Please read the comments in the plugin code for more details.
